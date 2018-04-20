@@ -7,5 +7,6 @@ namespace PIS1
 {
     class Class1
     {
+        Console.WriteLine("nema vise buga");
     }
 }
